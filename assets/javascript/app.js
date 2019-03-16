@@ -109,54 +109,54 @@ var trivia = {
 var questionBank =
 [
   {
-    question: "What is Lisa Simpsons favorite instrument?",
-    answers: ["Flute", "Guitar", "Saxophone"],
-    correct: "Joe Quimby"
+    question: "Who is Stewie's best friend?",
+    answers: ["Peter", "Louis", "Brian"],
+    correct: "Brian"
   },
 
   {
-    question: "What did Lyle Lanley sell to Brockway, Ogdenville, and North Haverbrook?",
-    answers: ["a monorail", "a nuclear power plant", "a mule with a spinning wheel"],
-    correct: "a monorail"
+    question: "What?",
+    answers: [""],
+    correct: ""
   },
   {
-    question: "What what the name of Bart's elephant?",
-    answers: ["Snowball", "Stampy", "Laddie"],
-    correct: "Stampy"
+    question: "Whatt?",
+    answers: [""],
+    correct: ""
   },
   {
-    question: "When Bart rents a car with a fake license, where does he drive with his friends on spring break?",
-    answers: ["Shelbyville", "Itchy and Scratchy Land", "Knoxville"],
-    correct: "Knoxville"
+    question: "When?",
+    answers: [""],
+    correct: ""
   },
   {
-    question: "When the Simpsons move to a farm, what plant do they grow and sell at a roadside stand?",
-    answers: ["carrots and peas", "a cross of tomatoes and tobacco", "gummy bears"],
-    correct: "a cross of tomatoes and tobacco"
+    question: "When?",
+    answers: [""],
+    correct: ""
   },
   {
-    question: "Which character that Homer voiced was added to, and promptly killed off, on the Itchy and Scratchy Show?",
-    answers: ["Poochie", "Max Power", "Kang"],
-    correct: "Poochie"
+    question: "Which?",
+    answers: [""],
+    correct: ""
   },
   {
-    question: "When child protective services removes the Simpson kids, which family fosters them?",
-    answers: ["Flanders", "Van Houten", "Smithers"],
-    correct: "Flanders"
+    question: "When?",
+    answers: [""],
+    correct: ""
   },
   {
-    question: "When Marge starts a business after attending a franchise fair, what is her company?",
-    answers: ["Fleet-a-Pita", "Flancrest Enterprises", "Pretzel Wagon"],
-    correct: "Pretzel Wagon"
+    question: "When?",
+    answers: [""],
+    correct: ""
   },
   {
-    question: "What dish does Lisa make for Homer's BBBQ backyard barbecue?",
-    answers: ["salad", "gazpacho", "lamb chops"],
-    correct: "gazpacho"
+    question: "What?",
+    answers: [""],
+    correct: ""
   },
   {
-    question: "What is Principal Seymour Skinner's real name?",
-    answers: ["Troy McClure", "Gary Chalmers","Armin Tamzarian"],
-    correct: "Armin Tamzarian"
+    question: "What?",
+    answers: [""],
+    correct: ""
   }
 ]
