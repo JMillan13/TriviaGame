@@ -41,9 +41,9 @@ var gameState = {
     $("#questions-box").empty();
     $("#timer").empty();
     $("#timer").hide();
-    $("#correct-answers").text("Correct answers (Woo-hoo!): " + numCorrect);
-    $("#incorrect-answers").text("Incorrect answers (D'oh!): " + numIncorrect);
-    $("#unanswered").text("Skipped questions (Meh): " + numUnanswered);
+    $("#correct-answers").text("Correct answers (Gigady-Gigady!!!): " + numCorrect);
+    $("#incorrect-answers").text("Incorrect answers (Ohhh-Noooo!!!): " + numIncorrect);
+    $("#unanswered").text("Skipped questions (Ngheaa!!!): " + numUnanswered);
   }
 }
 
@@ -115,48 +115,57 @@ var questionBank =
   },
 
   {
-    question: "What?",
-    answers: [""],
-    correct: ""
+    question : "What is the name of the junior high school in Quahog?",
+    answers: ["Quahog Junior High School", "Hogwarts Junior High School", "Buddy Cianci Junior High School"],
+    correct: "Buddy Cianci Junior High School"
+
   },
   {
-    question: "Whatt?",
-    answers: [""],
-    correct: ""
+    question: "What is the name of Stewie's teddy bear?",
+    answers: ["Bobo", "Rupert", "Ted"],
+    correct: "Rupert"
+
   },
   {
-    question: "When?",
-    answers: [""],
-    correct: ""
+    question: " Which character from Sesame Street was in rehabilitation?",
+    answers: ["Cookie Monster", "Elmo", "Big Bird"],
+    correct: "Cookie Monster"
+
   },
   {
-    question: "When?",
-    answers: [""],
-    correct: ""
+    question: "What is the name of Peter's black relative who was an actor in Black To The Future?",
+    answers: ["Paul Griffin","James Griffin","Rufus Griffin"],
+    correct: "Rufus Griffin"
+
   },
   {
-    question: "Which?",
-    answers: [""],
-    correct: ""
+    question: "What is the name of the robot from the show Transformers that is Jewish?",
+    answers: ["Optimus Prime","Bumble Bee", "Mega Bot"],
+    correct: "Optimus Prime"
+
   },
   {
-    question: "When?",
-    answers: [""],
-    correct: ""
+    question: "What American Football Team Did Peter once played for?",
+    answers: ["Denver Broncos","Quahog Titans","New England Patriots"],
+    correct: "New England Patriots"
+
   },
   {
-    question: "When?",
-    answers: [""],
-    correct: ""
+    question: "According to Meg, what can't she taste?",
+    answers: ["food","her own saliva","salt"],
+    correct: "salt"
+
   },
   {
-    question: "What?",
-    answers: [""],
-    correct: ""
+    question: "What was Peter Griffin's news segment?",
+    answers: ["The Peter Griffin Show","Grind My Gears","What About Sports"],
+    correct: "Grind My Gears"
+
   },
   {
-    question: "What?",
-    answers: [""],
-    correct: ""
+    question: "What is peter griffin's sister name?",
+    answers: ["Karen Griffin","Christie Griffin","Kate Griffin"],
+    correct: "Karen Griffin"
+
   }
 ]
